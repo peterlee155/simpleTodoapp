@@ -1,0 +1,12 @@
+{
+  "name": "modern-todo-app",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "servor --reload",
+    "build": "mkdir -p dist && cp -r index.html styles.css script.js page2.html dist/"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
