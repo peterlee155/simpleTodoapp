@@ -19,7 +19,7 @@ A responsive and user-friendly To-Do application with secure authentication and 
 
 Check out the app: [Modern To-Do App](https://shimmering-cascaron-180d19.netlify.app/)
 
-## How to Run Locally
+## Can Run
 
 1. Clone the repository:
    ```bash
